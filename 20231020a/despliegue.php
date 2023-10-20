@@ -2,4 +2,4 @@
     //se incluye el archivo funciones 
     include("funciones.php");
 
-    echo mostrar(1,"97");
+    echo mostrar(4,"patico","contar");
